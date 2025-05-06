@@ -4,3 +4,4 @@ Hannes Billmeir
 Timon Linke
 Sebastian Espei
 Daniel Karnofka
+Jan Friedrichs
